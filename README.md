@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vishnu Prakash Singh.
-- 👀 I’m interested in python codeing and in the field of ML, DL
+- 👀 I’m interested in python coding and in the field of ML, DL
 - 🌱 I’m currently learning Deep Learning and its practical implementation.
 - 💞️ I’m looking to collaborate on python open source libraries
 - 📫 How to reach me - vishnu.singh25@rediffmail.com
